@@ -11,4 +11,4 @@ import os
 class Config(object):
     API_ID = 17983098
     API_HASH = "ee28199396e0925f1f44d945ac174f64"
-    BOT_TOKEN = "5307529157:AAGXcAiOg4KY2mXQdkO44axulFNUdNX0ugg"
+    BOT_TOKEN = "5596598781:AAE_kqsacggwbxBKu72ePHuLYbZCk_O-rQs"
